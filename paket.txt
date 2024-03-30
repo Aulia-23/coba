@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ini adalah halaman paket B
+=======
+ini adalah halaman paket A
+>>>>>>> 2b279b398f603e29b300b904fb22680c924dae87
